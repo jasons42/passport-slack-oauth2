@@ -33,7 +33,7 @@
   },
   "homepage": "https://github.com/nmaves/passport-slack-oauth2#readme",
   "dependencies": {
-    "passport-oauth2": "github:jasons42/passport-oauth2",
+    "passport-oauth2": "^1.6.1",
     "pkginfo": "^0.4.1"
   }
 }
